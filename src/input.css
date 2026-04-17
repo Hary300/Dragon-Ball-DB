@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Mogra&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --font-Mogra: 'Mogra';
+}
